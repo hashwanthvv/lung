@@ -5,7 +5,7 @@ This repository contains the Matlab implementation of multi-fault modified boole
 
 Step 1: Open the files in Matlab.
 
-Step 2: Set the number of combinations of drugs in line 1 of "script.m" (minimum:1, maximum:5, default is set to 2).
+Step 2: Set the number of combinations of drugs in line 1 of "script.m" (minimum:1, maximum:6, default is set to 3).
 
 Step 3: Run "script.m".
 
